@@ -74,7 +74,7 @@ function Registration() {
                             <input
                                 type="password"
                                 className="form-control"
-                                placeholder="Enter password"
+                                placeholder="Enter password altleast 7 characters"
                                 onChange={(event) => setPassword(event.target.value)}
                             />
                         </div>
